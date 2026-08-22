@@ -59,7 +59,7 @@ In the future, I would like to improve this project by adding more functionality
 * User profiles
 * Friend requests
 * Messenger/chat functionality
-* Dark mode
+* Dark Mode
 * Responsive design for mobile devices
 * Backend and database integration
 
